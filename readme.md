@@ -8,7 +8,8 @@ Escribir sobre nosotros....
 
 Hacer  el cierre de la presentación, inventando a contactar... 
 
-## Skills
-- Habilidad 1
-- Habilidad 2
+## Ubication
+- Ciudad
+- Distrito
+- Pais
 
